@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Andrew Ding</h1>
-<h3 align="center">A Brown CS Student interested in Full-Stack software development!</h3>
+<h3 align="center">A Brown CS Student who loves making Full-Stack web apps and Bagels 🥯 in the morning!</h3>
 
 - 🔭 I’m currently working on a startup called [AUXPAD Notes](www.auxpad.com)
 
@@ -9,7 +9,7 @@
 
 - 📫 Reach me at: **andrew_ding@brown.edu**
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1oNcJ0ZxiyrIqQZ5kKsiWcCOcsPHmociG/view?usp=sharing](https://drive.google.com/file/d/1oNcJ0ZxiyrIqQZ5kKsiWcCOcsPHmociG/view?usp=sharing)
+- 📄 Resume: [https://drive.google.com/file/d/1oNcJ0ZxiyrIqQZ5kKsiWcCOcsPHmociG/view?usp=sharing](https://drive.google.com/file/d/1oNcJ0ZxiyrIqQZ5kKsiWcCOcsPHmociG/view?usp=sharing)
 
 - ⚡ Fun fact: **Bagels are the best breakfast food 🥯**
 
