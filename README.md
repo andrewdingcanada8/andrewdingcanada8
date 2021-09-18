@@ -11,7 +11,7 @@
 
 - 📄 Resume: [https://drive.google.com/file/d/1oNcJ0ZxiyrIqQZ5kKsiWcCOcsPHmociG/view?usp=sharing](https://drive.google.com/file/d/1oNcJ0ZxiyrIqQZ5kKsiWcCOcsPHmociG/view?usp=sharing)
 
-- ⚡ Fun fact: **Bagels are the best breakfast food 🥯**
+- ⚡ Fun fact: **Bagels are the best breakfast food**
 
 
 <h3 align="left">Languages and Tools:</h3>
