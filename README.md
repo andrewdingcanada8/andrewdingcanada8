@@ -1,17 +1,17 @@
 <h1 align="center">Hey 👋, I'm Andrew Ding</h1>
 <h3 align="center">A Brown CS Student interested in Full-Stack software development!</h3>
 
-- 🔭 I’m currently working on [AUXPAD](www.auxpad.com)
+- 🔭 I’m currently working on a startup called [AUXPAD Notes](www.auxpad.com)
 
 - 🌱 I’m currently learning **Solid.js, GraphQL, Tensorflow**
 
 - 💬 Ask me about **React, Typescript, Note-taking apps**
 
-- 📫 Reach me at **andrew_ding@brown.edu**
+- 📫 Reach me at: **andrew_ding@brown.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oNcJ0ZxiyrIqQZ5kKsiWcCOcsPHmociG/view?usp=sharing](https://drive.google.com/file/d/1oNcJ0ZxiyrIqQZ5kKsiWcCOcsPHmociG/view?usp=sharing)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1oNcJ0ZxiyrIqQZ5kKsiWcCOcsPHmociG/view?usp=sharing](https://drive.google.com/file/d/1oNcJ0ZxiyrIqQZ5kKsiWcCOcsPHmociG/view?usp=sharing)
 
-- ⚡ Fun fact **I love Bagels to death ❤️🥯**
+- ⚡ Fun fact: **Bagels are the best breakfast food 🥯**
 
 
 <h3 align="left">Languages and Tools:</h3>
