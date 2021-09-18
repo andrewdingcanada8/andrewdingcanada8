@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Andrew Ding</h1>
-<h3 align="center">A Brown CS Student who loves making Full-Stack web apps and Bagels 🥯 in the morning!</h3>
+<h3 align="center">A Brown CS Student who loves making Full-Stack webapps and bagels 🥯 in the morning!</h3>
 
 - 🔭 I’m currently working on a startup called [AUXPAD Notes](www.auxpad.com)
 
