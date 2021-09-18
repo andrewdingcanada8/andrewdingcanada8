@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **React, Typescript, Note-taking apps**
 
+- 🌱 Interested in exploring **crowd sourced, self-governing social platforms**
+
 - 📫 Reach me at: **andrew_ding@brown.edu**
 
 - 📄 Resume: [https://drive.google.com/file/d/1oNcJ0ZxiyrIqQZ5kKsiWcCOcsPHmociG/view?usp=sharing](https://drive.google.com/file/d/1oNcJ0ZxiyrIqQZ5kKsiWcCOcsPHmociG/view?usp=sharing)
