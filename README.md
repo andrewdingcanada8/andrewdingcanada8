@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Typescript, Note-taking apps**
 
-- 🌱 Interested in exploring **crowd sourced, self-governing social platforms**
+- 🗺 Interested in exploring **crowd sourced, self-governing social platforms**
 
 - 📫 Reach me at: **andrew_ding@brown.edu**
 
