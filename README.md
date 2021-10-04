@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Andrew Ding</h1>
 <h3 align="center">A Brown CS Student who loves making Full-Stack Webapps and bagels 🥯 in the morning!</h3>
 
-- 🔭 I’m currently working on a startup called [AUXPAD Notes](www.auxpad.com)
+- 🔭 I’m currently working on a startup called [AUXPAD Notes](https://www.producthunt.com/posts/auxpad-notes)
 
 - 🌱 I’m currently learning **Solid.js, GraphQL, Tensorflow**
 
