@@ -9,7 +9,7 @@
 
 - 🗺 Interested in exploring **crowd sourced, self-governing social platforms**
 
-- 📫 Reach me at: **andrew_ding@brown.edu**
+- 📫 Reach me at: [andrew_ding@brown.edu](mailto:andrew_ding@brown.edu), [LinkedIn](https://www.linkedin.com/in/andrew-x-ding)
 
 - 📄 Resume: [PDF](https://drive.google.com/file/d/18kDbsWqmCXa3E3CNCgRQQTxFtQCKkh7q/view?usp=sharing)
 
