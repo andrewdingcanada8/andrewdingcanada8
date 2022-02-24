@@ -13,7 +13,7 @@
 
 - 📄 Resume: [PDF](https://drive.google.com/file/d/1UN67fgyeqdbdOBV3x5FiN18VCiHMfLNf/view?usp=sharing)
 
-- ⚡ Fun fact: **Bagels are the best breakfast food**
+- ⚡ Opinion: **Bagels are the best breakfast food**
 
 
 <h3 align="left">Languages and Tools:</h3>
