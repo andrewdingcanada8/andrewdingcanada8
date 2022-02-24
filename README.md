@@ -11,7 +11,7 @@
 
 - 📫 Reach me at: [andrew_ding@brown.edu](mailto:andrew_ding@brown.edu), [LinkedIn](https://www.linkedin.com/in/andrew-x-ding)
 
-- 📄 Resume: [PDF](https://drive.google.com/file/d/18kDbsWqmCXa3E3CNCgRQQTxFtQCKkh7q/view?usp=sharing)
+- 📄 Resume: [PDF](https://drive.google.com/file/d/1UN67fgyeqdbdOBV3x5FiN18VCiHMfLNf/view?usp=sharing)
 
 - ⚡ Fun fact: **Bagels are the best breakfast food**
 
