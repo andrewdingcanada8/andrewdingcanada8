@@ -18,9 +18,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://go.dev/" target="_blank"> <img src="devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://numpy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
+  <a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/></a> 
