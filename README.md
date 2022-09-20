@@ -1,20 +1,19 @@
 <h1 align="center">Hey 👋, I'm Andrew Ding</h1>
-<h3 align="center">A Brown CS Student who loves making Full-Stack Webapps and bagels 🥯 in the morning!</h3>
+<h3 align="center">Senior studying compsci at Brown University who loves working coding in the evening and bagels 🥯 in the morning!</h3>
 
-- 🔭 I’m currently working on a startup called [AUXPAD Notes](https://www.producthunt.com/posts/auxpad-notes)
+- 🤖 This previous summer I worked as a **Software Engineer at [TikTok](https://www.tiktok.com/)** developing ML Ads Prediction models 
 
-- 🌱 I’m currently learning **Solid.js, GraphQL, Tensorflow**
+- 🔭 Over the summer of 2020 I worked on a startup called [AUXPAD Notes](https://www.producthunt.com/posts/auxpad-notes)
 
-- 💬 Ask me about **React, Typescript, Note-taking apps**
+- 🌱 I’m currently learning **computational linguistics, computer graphics**
+
+- 💬 Ask me about **my thoughts on novel notetaking solutions, favorite VR apps**
 
 - 🗺 Interested in exploring **crowd sourced, self-governing social platforms**
 
 - 📫 Reach me at: [andrew_ding@brown.edu](mailto:andrew_ding@brown.edu), [LinkedIn](https://www.linkedin.com/in/andrew-x-ding)
 
-- 📄 Resume: [PDF](https://drive.google.com/file/d/1UN67fgyeqdbdOBV3x5FiN18VCiHMfLNf/view?usp=sharing)
-
-- ⚡ Opinion: **Bagels are the best breakfast food**
-
+- 📄 Resume: [PDF](https://drive.google.com/file/d/1-sP95-Zp5Y4OsiFjkxyRIKxMCxeK4imJ/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
