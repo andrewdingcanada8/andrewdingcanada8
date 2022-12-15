@@ -5,7 +5,7 @@
 
 - 🔭 Over the summer of 2020 I worked on a startup called [AUXPAD Notes](https://www.producthunt.com/posts/auxpad-notes)
 
-- 🌱 I’m currently learning **computational linguistics, computer graphics**
+- 🌱 I’m currently learning **computational linguistics, computer vision**
 
 - 💬 Ask me about **my thoughts on novel notetaking solutions, favorite VR apps**
 
