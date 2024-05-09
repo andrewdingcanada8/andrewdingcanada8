@@ -1,19 +1,23 @@
 <h1 align="center">Hey 👋, I'm Andrew Ding</h1>
-<h3 align="center">Senior studying compsci at Brown University who loves working coding in the evening and bagels 🥯 in the morning!</h3>
+<h3 align="center">Software Engineer working on Ads Recommendation Systems at TikTok!</h3>
 
-- 🤖 This previous summer I worked as a **Software Engineer at [TikTok](https://www.tiktok.com/)** developing ML Ads Prediction models 
+- 👉 As a member of TikTok's monetization strategy team, my primary goal is to solve problems. Ads harm user experience and it's up to me to use all the systems and tools at my disposal to increase user retention while maintaining advertiser value growth. Success is measured in user metrics and advertiser value and all development must be backed by A/B Testing. Solutions I've worked on come in the form of:
+  - Using uplift modeling to predict user ad sensitivity and adjust advertising load accordingly.
+  - Using historical data to create frequency control mechanisms that reduce unecessary repeated exposures.
+  - Introducing external signals from pixel SDKs to rerank ads rankings to boost send to high lifetime value users while reducing send for the rest.
+- 🤖 Previous summer I also worked at TikTok, as a **Machine Learning Engineer at [TikTok](https://www.tiktok.com/)** developing ML Ads Prediction models 
 
 - 🔭 Over the summer of 2020 I worked on a startup called [AUXPAD Notes](https://www.producthunt.com/posts/auxpad-notes)
 
-- 🌱 I’m currently learning **computational linguistics, computer vision**
+- 🌱 I’m currently learning **Long-term Memory in LLMs**
 
 - 💬 Ask me about **my thoughts on novel notetaking solutions, favorite VR apps**
 
-- 🗺 Interested in exploring **crowd sourced, self-governing social platforms**
+- 🗺 Interested in exploring **interactions to reconnect people of different politics**
 
-- 📫 Reach me at: [andrew_ding@brown.edu](mailto:andrew_ding@brown.edu), [LinkedIn](https://www.linkedin.com/in/andrew-x-ding)
+- 📫 Reach me at: [andrew.ding8@outlook.edu](mailto:andrew.ding8@outlook.edu), [LinkedIn](https://www.linkedin.com/in/andrew-x-ding)
 
-- 📄 Resume: [PDF](https://drive.google.com/file/d/1-sP95-Zp5Y4OsiFjkxyRIKxMCxeK4imJ/view?usp=sharing)
+- 📄 Resume: [SWE.pdf](./resumes/SWE_2025.pdf) | [MLE.pdf](./resumes/MLE_2025.pdf)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
