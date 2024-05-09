@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, I'm Andrew Ding</h1>
 <h3 align="center">Software Engineer working on Ads Recommendation Systems at TikTok!</h3>
 
+<p align="center">📄 Resume: <a href="./resumes/SWE_2025.pdf">SWE.pdf</a> | <a href="./resumes/MLE_2025.pdf">MLE.pdf</a></p>
+
 - 👉 As a member of TikTok's monetization strategy team, my primary goal is to solve problems. Ads harm user experience and it's up to me to use all the systems and tools at my disposal to increase user retention while maintaining advertiser value growth. Success is measured in user metrics and advertiser value and all development must be backed by A/B Testing. Solutions I've worked on come in the form of:
   - Using uplift modeling to predict user ad sensitivity and adjust advertising load accordingly.
   - Using historical data to create frequency control mechanisms that reduce unecessary repeated exposures.
@@ -17,7 +19,7 @@
 
 - 📫 Reach me at: [andrew.ding8@outlook.edu](mailto:andrew.ding8@outlook.edu), [LinkedIn](https://www.linkedin.com/in/andrew-x-ding)
 
-- 📄 Resume: [SWE.pdf](./resumes/SWE_2025.pdf) | [MLE.pdf](./resumes/MLE_2025.pdf)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
